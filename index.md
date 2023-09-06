@@ -15,9 +15,7 @@
 
 </aside>
 
-- 📬 [Mail](mailto:chris@badmath.org)
-- 💼 [LinkedIn](https://www.linkedin.com/in/christopherseaman)
-- 🖨️ [PDF](https://sqrl.ly/resume.pdf)
+| 📬 [Mail](mailto:chris@badmath.org) | 💼 [LinkedIn](https://www.linkedin.com/in/christopherseaman) | 🖨️ [PDF](https://sqrl.ly/resume.pdf) |
 
 # About me
 
