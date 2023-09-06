@@ -17,6 +17,12 @@
 
 ---
 
+- 📬 [Mail](mailto:chris@badmath.org)
+- 💼 [LinkedIn](https://www.linkedin.com/in/christopherseaman)
+- 🖨️ [PDF](https://sqrl.ly/resume.pdf)
+
+---
+
 # About me
 
 Innovative Data Science & Growth leader with a rich two-decade journey. My passion lies in transforming raw data into strategic decisions, solving complex challenges, and propelling business success through technology. A collaborative leader known for inspiring teams to craft impactful solutions that bridge the gap between data-driven insights and tangible results.
