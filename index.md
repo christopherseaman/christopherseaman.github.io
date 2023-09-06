@@ -1,6 +1,16 @@
 # Christopher Seaman
 
-| 📬 [Mail](mailto:chris@badmath.org) | 💼 [LinkedIn](https://www.linkedin.com/in/christopherseaman) |  🖨️ [PDF](https://sqrl.ly/resume.pdf) |
+<aside>
+📬 [Mail](mailto:chris@badmath.org)
+</aside>
+
+<aside>
+💼 [LinkedIn](https://www.linkedin.com/in/christopherseaman)
+</aside>
+
+<aside>
+🖨️ [PDF](https://sqrl.ly/resume.pdf)
+</aside>
 ---
 
 # About me
