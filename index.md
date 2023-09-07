@@ -3,7 +3,7 @@ table {
     border-collapse: collapse;
 }
 table, th, td {
-   border: 0px solid black;
+   border: none!important;
 }
 blockquote {
     border-left: solid blue;
@@ -19,7 +19,7 @@ blockquote {
 # Christopher Seaman
 
 | 📬 [Mail](mailto:chris@badmath.org) | 💼 [LinkedIn](https://www.linkedin.com/in/christopherseaman) | 🖨️ [PDF](https://sqrl.ly/resume.pdf) |
-|-|-|-|
+|---|---|---|
 
 # About me
 
