@@ -2,7 +2,7 @@
 table {
     border-collapse: collapse;
 }
-table, th, td {
+table {
     border: none!important;
     width: 100%;
 }
