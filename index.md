@@ -10,16 +10,18 @@ blockquote {
     padding-left: 10px;
 }
 </style>
-
-| Column One    | Column Two    |                                
-| ---           | ---           |                           
-| data cell one | data cell two0 |    
+  
 
 
 # Christopher Seaman
 
 | 📬 [Mail](mailto:chris@badmath.org) | 💼 [LinkedIn](https://www.linkedin.com/in/christopherseaman) | 🖨️ [PDF](https://sqrl.ly/resume.pdf) |
 | --- | --- | --- |
+
+
+| Column One    | Column Two    |                                
+| ---           | ---           |                           
+| data cell one | data cell two0 |  
 
 # About me
 
