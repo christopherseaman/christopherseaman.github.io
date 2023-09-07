@@ -1,15 +1,17 @@
 <style>
-table {
-    border-collapse: collapse;
-}
-table {
-    border: none!important;
-    width: 100%;
-}
-/* blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-} */
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+        table, td, th {
+        border: none!important;
+    }
+    /*
+    blockquote {
+        border-left: solid blue;
+        padding-left: 10px;
+    } 
+    */
 </style>
   
 
