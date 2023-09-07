@@ -16,14 +16,9 @@ table {
 
 # Christopher Seaman
 
-| 📬 [Mail](mailto:chris@badmath.org) | 💼 [LinkedIn](https://www.linkedin.com/in/christopherseaman) | 🖨️ [PDF](https://sqrl.ly/resume.pdf) |
-| --- | --- | --- |
 |     |     |     |
-
-
-| Column One    | Column Two    |                                
-| ---           | ---           |                           
-| data cell one | data cell two |  
+| --- | --- | --- |
+| 📬 [Mail](mailto:chris@badmath.org) | 💼 [LinkedIn](https://www.linkedin.com/in/christopherseaman) | 🖨️ [PDF](https://sqrl.ly/resume.pdf) |
 
 # About me
 
