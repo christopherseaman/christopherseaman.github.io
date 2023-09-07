@@ -1,10 +1,10 @@
 <style>
     table {
-        border-collapse: collapse;
-        width: 100%!important;
+        width: 100%;
     }
     table, td, th {
         border: none!important;
+        width: 33%;
     }
     /*
     blockquote {
@@ -18,7 +18,7 @@
 
 # Christopher Seaman
 
-|     |     |     |
+|  33   |     |     |
 | --- | --- | --- |
 | 📬 [Mail](mailto:chris@badmath.org) | 💼 [LinkedIn](https://www.linkedin.com/in/christopherseaman) | 🖨️ [PDF](https://sqrl.ly/resume.pdf) |
 
