@@ -1,21 +1,3 @@
-<style>
-    table {
-        width: 100%;
-    }
-    table, td, th {
-        border: none!important;
-        width: 33%;
-    }
-    /*
-    blockquote {
-        border-left: solid blue;
-        padding-left: 10px;
-    } 
-    */
-</style>
-  
-
-
 # Christopher Seaman
 
 |  33   |     |     |
