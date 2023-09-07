@@ -18,6 +18,7 @@ table, th, td {
 
 | 📬 [Mail](mailto:chris@badmath.org) | 💼 [LinkedIn](https://www.linkedin.com/in/christopherseaman) | 🖨️ [PDF](https://sqrl.ly/resume.pdf) |
 | --- | --- | --- |
+| | | |
 
 
 | Column One    | Column Two    |                                
