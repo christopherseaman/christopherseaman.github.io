@@ -1,9 +1,9 @@
 <style>
     table {
         border-collapse: collapse;
-        width: 100%;
+        width: 100%!important;
     }
-        table, td, th {
+    table, td, th {
         border: none!important;
     }
     /*
