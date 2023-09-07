@@ -1,6 +1,13 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 # Christopher Seaman
 
 | 📬 [Mail](mailto:chris@badmath.org) | 💼 [LinkedIn](https://www.linkedin.com/in/christopherseaman) | 🖨️ [PDF](https://sqrl.ly/resume.pdf) |
+|-|-|-|
 
 # About me
 
