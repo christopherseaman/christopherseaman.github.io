@@ -1,3 +1,8 @@
 site_name: Christopher Seaman
 site_url: https://badmath.org
 theme: material
+  font:
+    text: Fira Sans
+    code: Fira Mono
+    # text: Source Sans 3
+    # code: Source Code Pro
