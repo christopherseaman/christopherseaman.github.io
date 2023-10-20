@@ -9,5 +9,5 @@ theme:
     - python
     - yaml
   font:
-    text: Source Serif 4
+    text: Helvetical Neue
     code: Fira Mono

@@ -1,53 +1,67 @@
-# Christopher Seaman
+<aside>
+📬 [Mail](mailto:chris@badmath.org)
 
-| 📬 [Mail](mailto:chris@badmath.org) | 💼 [LinkedIn](https://www.linkedin.com/in/christopherseaman) | 🖨️ [PDF](https://sqrl.ly/resume.pdf) |
-| --- | --- | --- |
+</aside>
+
+<aside>
+💼 [LinkedIn](https://www.linkedin.com/in/christopherseaman)
+
+</aside>
+
+<aside>
+🖨️ [PDF](https://sqrl.ly/resume.pdf)
+
+</aside>
+
+## *Hands-on Data Science Builder*
+
+`s/data/action/g`
 
 # About me
 
-Innovative Data Science & Growth leader with a rich two-decade journey. My passion lies in transforming raw data into strategic decisions, solving complex challenges, and propelling business success through technology. A collaborative leader known for inspiring teams to craft impactful solutions that bridge the gap between data-driven insights and tangible results.
+With over two decades of experience, I'm a seasoned data scientist who excels at **transforming raw data into actionable insights**. What truly distinguishes me is my unwavering commitment to cultivating a culture rooted in the ideals of DevOps: *Locality and Simplicity*, *Flow and Joy*, and the *Improvement of Daily Work*. I thrive tackling complex problems and propelling business success through technology. As a leader, I'm recognized for my ability to motivate teams to create impactful solutions that seamlessly bridge the gap between data-driven insights and tangible outcomes.
 
-Driven by the ideals of DevOps, I have fostered thriving team cultures by cultivating an environment of continuous improvement, where collaboration and shared ownership flourish. One standout example was an early bundling test for Jira: it quadrupled signups but had fewer conversions! In light of this surprising “failure”, the team and stakeholders embraced transparent communication and iterative problem solving. That allowed us to devise new experiments to probe our assumptions, eventually resulting in a clear win and the bundling strategy still offered today.
+Driven by the ideals of DevOps, I have fostered thriving team cultures by cultivating an environment where **collaboration** and **shared ownership** flourish. A prime example of this approach was an early bundling test for Jira: a test that initially quadrupled signups but led to a dip in conversions. Instead of viewing this as a setback, the team and stakeholders embraced transparent communication to question assumptions and devise new tests. After several iterations, this approach yielded a resounding success, forming the foundation of the bundling strategy still in use today.
 
-# Signature achievements
+# Core strengths
 
-- **Transforming vision into reality**: Orchestrated multi-year roadmaps, aligning technical strategy with business objectives. Successfully executed projects using Agile, allowing predictable delivery timelines while upholding SLAs.
-- **Building high-performing teams**: Mentored data science teams of up to 11, fostering ideals of innovation and continuous learning. Additional team expertise in current tools & practices resulted in faster releases and improved quality.
-- **Driving a culture of measurability**: Led cultural transformation towards data-informed decision-making across organizations. Resulted in processes with feature releases measured against predetermined success criteria using standardized metrics.
+- **Data system architecture**: Proficient in designing and implementing scalable data systems in AWS and GCP, including the Atlassian Marketing & Growth stack, ensuring data reliability, performance, and security. The system served as a model when product analytics were built later.
+- **ML & experimentation expertise**: A hands-on leader, establishing a *culture of measurability* by building experimentation platforms, processes, and teams while collaborating closely with champions across the organization. Achievements: $100m+ incremental ARR, substantial active user wins, and always setting clear success criteria for new features.
+- **Culture & team development**: Mentored data science teams and directly contributed to projects, fostering ideals of innovation and continuous learning. This approach enabled the development of innovative features while simultaneously increasing release cadence
 
 # Experience
 
-## Head of Data Science
+## Principal Data Scientist, Head of Data Science
 
 *Bay View Analytics | 2023 - present*
 
-- Led bio- and health-tech consulting with a focus on digital health, diagnostics, therapeutics, and education
-- Provided analytical guidance through FDA approval and driving iterative ML solutions for enhanced efficacy and product/market-fit
+- Led bio- and health-tech consulting in digital health, diagnostics, therapeutics, and education sectors
+- Provided strategic analytical guidance, resulting in successful FDA approvals and iterative ML solutions for enhanced efficacy and improved product/market-fit
 
 ## Honorary Lecturer
 
 *UCSF | 2023 - present*
 
-- Educating on data science applications in Python at UCSF’s Health Data Science Masters Program
-- Teaching SQL, data cleaning with Pandas, classification & model evaluation, vision, and building an LLM from scratch
+- Developed and delivered a new course on diverse data science applications using Python within UCSF’s Health Data Science Masters Program
+- Instructed students on various essential topics, including SQL, data cleaning, model creation & evaluation, computer vision, and creating an LLM from scratch
 
 ## Director - Experimentation
 
 *1Password | 2022*
 
-- Founded Experimentation and led Marketing Analytics
-- Built an A/B testing platform, developed a high-performing data science team, and achieved multiple 20%+ wins
-- Owned top-of-funnel reporting, budget/forecasting, governance, and root cause analysis
+- Founded and led the Experimentation and Marketing Analytics department
+- Spearheaded the creation of an A/B testing platform, including development of a high-performing data science team and achieving multiple 20%+ wins
+- Held responsibility for top-of-funnel reporting, budget/forecasting, and governance
 
-### Director - Data Science & Growth
+## Director - Data Science & Growth
 
 *Rollbar | 2020 - 2021*
 
-- Established Growth and led Data Science initiatives
-- Developed roadmaps & strategies, and effective experimentation prioritization and practices
-- Improved ML error grouping by 35%, reduced noise by 80% (top customer complaint, lowering support ticket volume)
+- Led initiatives to establish company-wide growth and data science strategies
+- Developed and successfully executed roadmaps, strategies, and effective experimentation prioritization and practices
+- Led ML initiatives, achieving 35% error grouping improvement and an 80% reduction in false alerts, addressing customer concerns and reducing support tickets
 
-# Founder
+## Founder
 
 *Monett | 2019*
 
@@ -58,16 +72,16 @@ Driven by the ideals of DevOps, I have fostered thriving team cultures by cultiv
 
 *Dropbox | 2017 - 2018*
 
-- Led a team of 10 PMs driving individual plan paid conversion, resulting in an $80m+ ARR lift
-- Successfully launched free trials for Dropbox mobile and reimagined the over-quota flow, a key conversion point (both $XXm wins)
+- Led 10 PMs, boosting individual plan paid conversion by $80m+ ARR
+- Launched mobile free trials and revamped over-quota flow, both $XXm wins
 
 ## Data Science Lead
 
 *Atlassian | 2013 - 2017*
 
-- Pioneered and managed a data science team of 5 through the company’s IPO
-- Built A/B testing platform, marketing attribution, and causal inference achieving 250,000+ MAU and significant cost savings in marketing
-- Grew team from one data scientist (me) to maturity, recruiting data engineering (4) and marketing analytics (10) dedicated functions
+- Designed and implemented the data platform for Marketing, using off-the-shelf tools (Segment, S3 + Redshift) and ones we built in-house (stats engine)
+- Built A/B testing platform and program, marketing attribution, and SEO causal inference achieving 250,000+ new teams using Jira and significant cost savings in marketing
+- Grew team from one data scientist (me) to maturity (5 directs), as well as recruiting data engineering (4) and marketing analytics (10) dedicated functions
 
 # Education
 
